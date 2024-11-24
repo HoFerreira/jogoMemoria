@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #fc1e8a;
+    background: #3F858C;
     user-select: none;
 }
 
@@ -16,10 +16,7 @@ body {
     gap: 30px;
     background: linear-gradient(
         325deg,
-        #03001e 0%, 
-        #7303c0 30%, 
-        #ec38bc 70%, 
-        #fdeff9 100%);
+        rgba(63,133,140,1) 0%, rgba(122,184,191,1) 35%, rgba(196,238,242,1) 100%);
     padding: 40px 60px;
 }
 
